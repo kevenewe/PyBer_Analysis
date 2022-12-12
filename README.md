@@ -1,20 +1,20 @@
 # PyBer_Analysis 
 A data set was provided that had data for 
 
-##Ride Sharing in Urban Areas
+## Ride Sharing in Urban Areas
 
-###Fares 
+### Fares 
 
-### number of Drivrs
+### Number of Drivrs
 
 ## Ride Sharing in Suburban Areas
 
-###Fares 
+### Fares 
 
-### number of Drivrs
+### Number of Drivrs
 
 ## Ride Sharing in Rural Areas
 
-###Fares 
+### Fares 
 
-### number of Drivrs
+### Number of Drivrs
